@@ -3,4 +3,4 @@ After solving **250 problems**, I earned my **CodeChef Bronze Badge**! ðŸŽ‰ Itâ€
 
 ---
 
-<img src="CodeChefBadge.png" height="300" width="300"><img src="CodeChefBadge(2).png" height="300" width="300">
+<img src="CodeChefBadge.png" height="300" width="300"><img src="2.png" height="300" width="300">
