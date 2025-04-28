@@ -1,5 +1,5 @@
 ## 🥉 **CodeChef Bronze Badge**  
-After solving **250 problems**, I earned my **CodeChef Bronze Badge**! 🎉 It’s been an exciting journey, and this achievement motivates me to keep pushing forward with my problem-solving skills. 💪
+After solving **250 problems**, I earned my **CodeChef Silver Badge**! 🎉 It’s been an exciting journey, and this achievement motivates me to keep pushing forward with my problem-solving skills. 💪
 
 ---
 
