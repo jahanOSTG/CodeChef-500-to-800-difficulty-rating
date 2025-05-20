@@ -9,6 +9,7 @@ int main(){
     
     for(int i=0; i<t; i++){
         cin>>x>>y;
+        
         if(x>y){
             cout<<"CAR"<<endl;
         }
