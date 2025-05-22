@@ -10,7 +10,7 @@ int main() {
 
     for (int i = 0; i < t; i++) {
         cin >> a>>b>>c;
-        int d=a-b;
+        int d=abs(a-b);
         if(d<=c){
             cout<<"YES"<<endl;
         }else{
