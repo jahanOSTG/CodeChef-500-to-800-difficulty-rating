@@ -3,16 +3,15 @@ After solving over **250 problems**, I proudly earned my **Silver Badge** on [Co
 This journey helped me master core programming concepts using **C++** and **Code::Blocks**.
 
 ---
+## 📸 Achievement Showcase
 
-## 🔧 Tools That Empowered My Journey
-
-| Tool         | Description            |
-|--------------|------------------------|
-| 🖥️ Language  | **C++**                |
-| 🧰 IDE       | **Code::Blocks**       |
-| ⚙️ Compiler  | **GNU GCC**            |
+| Bronze Badge | Silver Badge |
+|--------------|--------------|
+| ![CodeChef Silver Badge](CodeChefBadge.png) | ![Code::Blocks](2.png) |
 
 ---
+
+
 
 ## 🧠 Core Topics Mastered
 
@@ -46,14 +45,17 @@ This journey helped me master core programming concepts using **C++** and **Code
 - Proper formatting and validation
 
 ---
+## 🔧 Tools That Empowered My Journey
 
-## 📸 Achievement Showcase
-
-| Bronze Badge | Silver Badge |
-|--------------|--------------|
-| ![CodeChef Silver Badge](CodeChefBadge.png) | ![Code::Blocks](2.png) |
+| Tool         | Description            |
+|--------------|------------------------|
+| 🖥️ Language  | **C++**                |
+| 🧰 IDE       | **Code::Blocks**       |
+| ⚙️ Compiler  | **GNU GCC**            |
 
 ---
+
+
 
 ## 🚀 Takeaways from This Journey
 - Developed **strong logical thinking**
