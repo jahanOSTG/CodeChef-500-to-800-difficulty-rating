@@ -8,7 +8,7 @@ int main(){
         if(x>=1 && x<=10){
                 cout<<"Lower Double"<<endl;
 
-        }else if(x>=11 && x<=15){
+        }else if(x >= 11 && x <= 15){
              cout<<"Lower Single"<<endl;
 
 
