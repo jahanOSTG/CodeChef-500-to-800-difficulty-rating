@@ -8,7 +8,7 @@ This journey helped me master core programming concepts using **C++** and **Code
 | Bronze Badge                     | Silver Badge                | Gold Badge                  |
 |---------------------------------|----------------------------|-----------------------------|
 | ![CodeChef Bronze Badge](CodeChefBadge.png) | ![Code::Blocks](2.png)       | ![CodeChefBadge (3)](https://github.com/user-attachments/assets/138f8983-cc24-49b2-9d47-707486e9d5e1)
-) |
+ 
 
 ---
 
