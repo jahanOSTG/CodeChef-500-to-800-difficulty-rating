@@ -1,5 +1,5 @@
 # 🥈 CodeChef Silver Badge Unlocked! 🎉  
-After solving over **250 problems**, I proudly earned my **Silver Badge** on [CodeChef](https://www.codechef.com/).  
+After solving over **500 problems**, I proudly earned my **Silver Badge** on [CodeChef](https://www.codechef.com/).  
 This journey helped me master core programming concepts using **C++** and **Code::Blocks**.
 
 ---
