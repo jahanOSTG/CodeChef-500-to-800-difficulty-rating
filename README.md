@@ -66,6 +66,5 @@ This journey helped me master core programming concepts using **C++** and **Code
 
 ---
 
-🏆 **Next Milestone: CodeChef Gold Badge**  
-Let the learning continue! 💪🔥
+
 
