@@ -7,8 +7,10 @@ int main(){
         cin>>n>>m;
         if(n<=m){
             cout<<n<<endl;
-        }else{
+        }
+        else{
             cout<<(n-m)+n<<endl;
         }
     }
 }
+
