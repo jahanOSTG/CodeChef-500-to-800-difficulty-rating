@@ -1,5 +1,6 @@
 #include<iostream>
 #include<algorithm>
+
 using namespace std;
 int main(){
   int t,x,y;
@@ -16,6 +17,7 @@ int main(){
     cout<<max(s1,s2)<<endl;
   }
   }
+
 
 
 
