@@ -16,7 +16,9 @@ int main(){
 
     cout<<max(s1,s2)<<endl;
   }
+  return 0;
   }
+
 
 
 
